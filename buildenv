@@ -1,6 +1,6 @@
 # Update bump details accordingly. Use bump check to confirm.
 # bump: stow-version /STOW_VERSION="(.*)"/ https://github.com/aspiers/stow.git|semver:*
-# STOW_VERSION="V.R.M" # Specify a stable release
+# STOW_VERSION="2.4.1" # Specify a stable release
 # export ZOPEN_STABLE_TAG="v${STOW_VERSION}"
 export ZOPEN_STABLE_URL="https://ftp.gnu.org/gnu/stow/stow-2.4.0.tar.gz"
 export ZOPEN_STABLE_DEPS="make grep perl"
